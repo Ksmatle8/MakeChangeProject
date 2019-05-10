@@ -4,7 +4,7 @@ public class MakeChangeApp {
 		
 		//Prompt user for value, and get input
 		
-		//Prompt user for 
+		//Prompt for amount tendered (give back to customer)
 	}
 
 }
